@@ -1,0 +1,12 @@
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\bin\Debug\ConversorDecimal.exe.config
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\bin\Debug\ConversorDecimal.exe
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\bin\Debug\ConversorDecimal.pdb
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.csprojAssemblyReference.cache
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.Forms.formAscii.resources
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.formMenu.resources
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.Forms.formSistemas.resources
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.Properties.Resources.resources
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.csproj.GenerateResource.cache
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.exe
+C:\Users\Yordi\source\repos\ConversorDecimal\ConversorDecimal\obj\Debug\ConversorDecimal.pdb
